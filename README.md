@@ -1,7 +1,7 @@
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=C3E5AE&height=200&section=header&text=Hi%20there%20👋&fontColor=f7f5f5&fontSize=35&animation=fadeIn&fontAlignY=35"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=76819C&height=200&section=header&text=Hi%20there%20👋&fontColor=363636&fontSize=35&animation=fadeIn&fontAlignY=35"/>
 </p>
-
+<div align="center">
 <h3 align="center">🛠️ Frameworks & Languages Tech Stack 🛠️</h3>
 <div align="center">
   <img src="https://shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
@@ -9,7 +9,7 @@
   <img src="https://shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://shields.io/badge/svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
 </div>
-<div align="center">
+<p align="center">
   <img src="https://shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -21,14 +21,14 @@
   <img src="https://shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img src="https://shields.io/badge/Shell%20Script-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
   <img src="https://shields.io/badge/Windows%20Batch-026664?style=flat-square&logo=slashdot&logoColor=white" />
-</div>
+</p>
 
 <h3 align="center">🛢️ Database Tech Stack 🛢️</h3>
-<div align="center">
+<p align="center">
   <img src="https://shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-</div>
+</p>
 
 <h3 align="center">🏗️ DevOps & Platform 🏗️</h3>
 <div align="center">
@@ -37,14 +37,12 @@
   <img src="https://shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
   <img src="https://shields.io/badge/Kaniko-FFA600?style=flat-square&logo=kaniko&logoColor=white" />
 </div>
-<div align="center">
+<p align="center">
   <img src="https://shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
   <img src="https://shields.io/badge/NCP-03C75E?style=flat-square&logo=naver&logoColor=white" />
-</div>
+</p>
 
-<div align="center">
 <a href="https://github.com/chauid">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chauid&layout=compact&langs_count=8&card_width=320" />
 </a>
 </div>
-
