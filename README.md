@@ -46,6 +46,6 @@
 </p>
 
 <a href="https://github.com/chauid">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chauid&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats-forked-by-chauid.vercel.app/api/top-langs?username=chauid&layout=compact&langs_count=8&card_width=320" />
 </a>
 </div>
